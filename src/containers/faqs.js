@@ -6,14 +6,14 @@ export function FaqsContainer() {
   return (
     <Accordion>
       <Accordion.Title>Frequently Asked Questions</Accordion.Title>
-      {faqsData.map((item) => (
-        <Accordion.Item key={item.key}>
-          <Accordion.Header>{item.header}</Accordion.Header>
-          <Accordion.Body>{item.body} fuck</Accordion.Body>
-        </Accordion.Item>
-      ))}
-      <Accordion.Item />
-
+      <Accordion.Frame>
+        {faqsData.map((item) => (
+          <Accordion.Item key={item.id}>
+            <Accordion.Header>{item.header}</Accordion.Header>
+            <Accordion.Body>{item.body}</Accordion.Body>
+          </Accordion.Item>
+        ))}
+      </Accordion.Frame>
       <OptForm>
         <OptForm.Input placeholder="Email adress" />
         <OptForm.Button>Try it now</OptForm.Button>

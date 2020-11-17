@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Accordion /> opens and closes the <Accordion /> component 1`] = `
+<div
+  class="accordion__Container-sc-1wnyt6p-0 hnCdYS"
+>
+  <div
+    class="accordion__Inner-sc-1wnyt6p-2 fSytGy"
+  >
+    <h1
+      class="accordion__Title-sc-1wnyt6p-3 bgKOnB"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="accordion__Frame-sc-1wnyt6p-1 ijGwCb"
+    >
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          What is Netflix?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          How much does Netflix cost?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          Where can I watch?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          How do I cancel?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          What can I watch on Netflix?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Accordion /> renders the <Accordion /> with populated data 1`] = `
+<div
+  class="accordion__Container-sc-1wnyt6p-0 hnCdYS"
+>
+  <div
+    class="accordion__Inner-sc-1wnyt6p-2 fSytGy"
+  >
+    <h1
+      class="accordion__Title-sc-1wnyt6p-3 bgKOnB"
+    >
+      Frequently Asked Questions
+    </h1>
+    <div
+      class="accordion__Frame-sc-1wnyt6p-1 ijGwCb"
+    >
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          What is Netflix?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          How much does Netflix cost?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          Where can I watch?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          How do I cancel?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+      <div
+        class="accordion__Item-sc-1wnyt6p-4 ijuhMl"
+      >
+        <div
+          class="accordion__Header-sc-1wnyt6p-5 cCUWOA"
+        >
+          What can I watch on Netflix?
+          <img
+            alt="open"
+            src="/images/icons/add.png"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Footer /> renders the <Footer /> with populated data 1`] = `
+<div
+  class="footer__Container-eh6b4z-0 NSflF"
+>
+  <p
+    class="footer__Title-eh6b4z-4 hmIIHP"
+  >
+    Questions? Contact us
+  </p>
+  <div
+    class="footer__Break-eh6b4z-6 beBfaI"
+  />
+  <div
+    class="footer__Row-eh6b4z-2 hRtLtH"
+  >
+    <div
+      class="footer__Column-eh6b4z-1 bVJQyu"
+    >
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        FAQ
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Investor Relations
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Ways to Watch
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Coporate Information
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Netflix Originials
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bVJQyu"
+    >
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Help Center
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Jobs
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Terms of Use
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Contact Us
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bVJQyu"
+    >
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Account
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Redeem Gift Cards
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Privacy
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Speed Test
+      </a>
+    </div>
+    <div
+      class="footer__Column-eh6b4z-1 bVJQyu"
+    >
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Media Centre
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Buy Gift Cards
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Cookie Preferences
+      </a>
+      <a
+        class="footer__Link-eh6b4z-3 jVLJmh"
+        href="#"
+      >
+        Legal Notices
+      </a>
+    </div>
+  </div>
+  <div
+    class="footer__Break-eh6b4z-6 beBfaI"
+  />
+  <p
+    class="footer__Text-eh6b4z-5 hbPgti"
+  >
+    Netflix Poland
+  </p>
+</div>
+`;
